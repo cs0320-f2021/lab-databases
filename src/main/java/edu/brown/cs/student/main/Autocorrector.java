@@ -1,13 +1,13 @@
 package edu.brown.cs.student.main;
 
+import java.io.File;
+import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 import java.util.Set;
 import java.util.TreeSet;
-import java.io.File;
-import java.io.FileNotFoundException;
 
 /**
  * Class to create autocorrect suggestions given input.
